@@ -1,9 +1,7 @@
 # Cursor Website Clone
 
 This project is a **frontend clone of the Cursor official website**, built using **HTML and CSS** only.  
-The aim of this project was to understand how a **modern developer-focused landing page** is structured and styled.
 
-This is a **UI clone**, not the real Cursor product.
 
 ---
 
@@ -63,4 +61,3 @@ No JavaScript is used in this project.
 
 ---
 
-## Project Structure
